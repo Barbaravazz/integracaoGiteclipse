@@ -6,6 +6,7 @@ public class gitIntegracao {
 		// TODO Auto-generated method stub
 		System.out.println("teste");
 		System.out.println("teste2");
+		System.out.println("teste3");
 	}
 
 }
